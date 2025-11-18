@@ -1,1 +1,1 @@
-console.log("git repo")
+console.log("merge request")
